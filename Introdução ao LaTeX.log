@@ -1,0 +1,204 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.5)  5 JAN 2023 04:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Introdução ao LaTeX.tex"
+(Introdução ao LaTeX.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
+(/home/willemromao/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/home/willemromao/.miktex/texmfs/install/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/home/willemromao/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/home/willemromao/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language1
+
+(/home/willemromao/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/willemromao/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/willemromao/.miktex/texmfs/install/tex/latex/babel-portuges/brazilian.ld
+f
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Portuguese' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 53.
+
+Package babel Info: Making " an active character on input line 143.
+))
+(/home/willemromao/.miktex/texmfs/install/tex/generic/babel/locale/pt/babel-bra
+zilian.tex
+Package babel Info: Importing font and identification data for brazilian
+(babel)             from babel-pt-BR.ini. Reported on input line 11.
+)
+(/home/willemromao/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/home/willemromao/.miktex/texmfs/install/tex/latex/lipsum/lipsum.sty
+(/home/willemromao/.miktex/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2
+e.sty (/home/willemromao/.miktex/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-12-17 L3 programming layer (loader) 
+
+(/home/willemromao/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.
+def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count196
+\l__lipsum_a_int=\count197
+\l__lipsum_b_int=\count198
+
+(/home/willemromao/.miktex/texmfs/install/tex/latex/lipsum/lipsum.ltd.tex))
+(/home/willemromao/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/willemromao/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/home/willemromao/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/willemromao/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/home/willemromao/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/home/willemromao/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(Introdução ao LaTeX.aux)
+\openout1 = `"Introdução ao LaTeX.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(/home/willemromao/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen145
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks20
+)
+(/home/willemromao/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.
+sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/willemromao/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+
+Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
+(lipsum)                'brazilian' will be used instead.
+
+
+Overfull \hbox (11.79114pt too wide) in paragraph at lines 24--24
+\T1/cmr/m/n/12 nonummy pellentesque ante. Phasellus adipiscing semper elit. Pro
+in fermentum
+ []
+
+[1
+
+{/home/willemromao/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
+<images//car-garage.jpg, id=12, 332.74312pt x 210.7875pt>
+File: images//car-garage.jpg Graphic file (type jpg)
+<use images//car-garage.jpg>
+Package pdftex.def Info: images//car-garage.jpg  used on input line 27.
+(pdftex.def)             Requested size: 296.0pt x 187.52309pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+ [2 <./images//car-garage.jpg>] [3] (Introdução ao LaTeX.aux) ) 
+Here is how much of TeX's memory you used:
+ 3045 strings out of 478341
+ 54625 string characters out of 2840848
+ 1854793 words of memory out of 3000000
+ 23150 multiletter control sequences out of 15000+600000
+ 522112 words of font info for 52 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 72i,8n,77p,250b,227s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ </home/willem
+romao/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </hom
+e/willemromao/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.p
+k> </home/willemromao/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
+bx1728.pk> </home/willemromao/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/d
+pi600/ecrm1095.pk> </home/willemromao/.miktex/texmfs/data/fonts/pk/ljfour/jknap
+pen/ec/dpi600/ecbx1095.pk> </home/willemromao/.miktex/texmfs/data/fonts/pk/ljfo
+ur/jknappen/ec/dpi600/ecrm1440.pk> </home/willemromao/.miktex/texmfs/data/fonts
+/pk/ljfour/jknappen/ec/dpi600/ecrm2074.pk>
+Output written on "Introdução ao LaTeX.pdf" (3 pages, 74897 bytes).
+PDF statistics:
+ 184 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
